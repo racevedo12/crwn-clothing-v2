@@ -3,8 +3,6 @@ import CategoryItem from "../category-item/category-item.component";
 
 const CategoryMenu = ({ categories }) =>
 {
-    
-
     return (
         <div className='category-menu-container'>
     
